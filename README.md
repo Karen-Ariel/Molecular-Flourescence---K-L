@@ -8,7 +8,7 @@ linear Fit -  Takes the spreadsheet output from the integral code and creates a 
 
 
 # Section 2 - Constant Concentration Differing Length
-photo code - Takes the photograph of the fluorescent sample as input, outputs light intensity as a function of distance x at a specific height in the photograph. 
+Part B - Takes the photograph of the fluorescent sample as input, outputs light intensity as a function of distance x at a specific height in the photograph. 
 
 Linear fit and poly fit - same as in previous section, makes a fitting and graph of order one and order 3.
 
